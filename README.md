@@ -58,5 +58,5 @@ Customer service in food delivery is often slow, robotic, or overly reliant on e
 
 This project shows how Baboon can **scale customer support without losing the human touch**, while enhancing user experience with **smart, timely food suggestions**.
 
-## Live Demo
+## 🖥️ Live Demo
 You can see the live demo [here](https://www.stack-ai.com/chat/68153b57a035e76c771fa1e3-151kzNG2KLlHoO6qgqEdM4).
